@@ -1,0 +1,8 @@
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+station_log.txt
+.DS_Store
+Thumbs.db
