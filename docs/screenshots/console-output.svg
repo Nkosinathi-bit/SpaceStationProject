@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="1122" viewBox="0 0 1240 1122">
+<rect width="1240" height="1122" rx="18" fill="#0e1728"/>
+<text x="48" y="47" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="600" fill="#83cbb1">RECORDED APPLICATION OUTPUT</text>
+<text x="48" y="92" xml:space="preserve" font-family="DejaVu Sans" font-size="29" font-weight="600" fill="#ffffff">Space Station Simulator</text>
+<path d="M48 120H1192" stroke="#2b3c53"/>
+<text x="48" y="161" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">==================================</text>
+<text x="48" y="185" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef"> SPACE STATION CONTROL SYSTEM</text>
+<text x="48" y="209" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">==================================</text>
+<text x="48" y="233" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Starting modules created:</text>
+<text x="48" y="257" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Hab Life Support MODAD61</text>
+<text x="48" y="281" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Main Reactor MODAF64</text>
+<text x="48" y="305" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">[ENGINE] Background station monitor started.</text>
+<text x="48" y="329" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef"></text>
+<text x="48" y="353" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">----------- MAIN MENU -----------</text>
+<text x="48" y="377" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">1.  View All Modules</text>
+<text x="48" y="401" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">2.  Add Module</text>
+<text x="48" y="425" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">3.  Remove Module</text>
+<text x="48" y="449" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">4.  Assign Crew</text>
+<text x="48" y="473" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">5.  Remove Crew</text>
+<text x="48" y="497" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">6.  Transfer Power</text>
+<text x="48" y="521" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">7.  Repair Module</text>
+<text x="48" y="545" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">8.  Run Diagnostics</text>
+<text x="48" y="569" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">9.  Emergency Shutdown</text>
+<text x="48" y="593" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">10. View Event Log History</text>
+<text x="48" y="617" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">11. Save Logs to File</text>
+<text x="48" y="641" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">0.  Exit</text>
+<text x="48" y="665" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#8bdfbc">Select an option: --- LIFE SUPPORT REPORT [MODAD61] ---</text>
+<text x="48" y="689" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Name:       Hab Life Support</text>
+<text x="48" y="713" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Status:     Online</text>
+<text x="48" y="737" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Integrity:  99%</text>
+<text x="48" y="761" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Power Draw: 10 kW</text>
+<text x="48" y="785" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Crew:       0 / 7 Astronauts</text>
+<text x="48" y="809" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Oxygen:     100.0%</text>
+<text x="48" y="833" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">---------------------------------</text>
+<text x="48" y="857" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#8bdfbc">--- POWER GRID REPORT [MODAF64] ---</text>
+<text x="48" y="881" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Name:        Main Reactor</text>
+<text x="48" y="905" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Status:      Online</text>
+<text x="48" y="929" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Integrity:   99%</text>
+<text x="48" y="953" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Self Draw:   5 kW</text>
+<text x="48" y="977" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Generation:  35 kW</text>
+<text x="48" y="1001" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Reserves:    218.8 / 245.0 kWh</text>
+<text x="48" y="1025" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Grid Status: STABLE</text>
+<text x="48" y="1049" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">---------------------------------</text>
+<path d="M48 1069H1192" stroke="#2b3c53"/>
+<text x="48" y="1096" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="400" fill="#9eafc3">Actual stdout from an automated run. Full unedited transcript is linked in the README.</text>
+</svg>

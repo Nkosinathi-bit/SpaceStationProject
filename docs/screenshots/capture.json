@@ -1,0 +1,10 @@
+{
+  "project": "SpaceStationProject",
+  "source": "6d53bae7aa195d80ca7b30b887921792b6f85b82",
+  "kind": "recorded standard output",
+  "input": [
+    "1",
+    "0"
+  ],
+  "workflow_run": "https://github.com/Nkosinathi-bit/Nkosinathi-bit/actions/runs/38805132266"
+}

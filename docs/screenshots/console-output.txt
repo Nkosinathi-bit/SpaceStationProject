@@ -1,0 +1,55 @@
+==================================
+ SPACE STATION CONTROL SYSTEM
+==================================
+Starting modules created:
+Hab Life Support MODAD61
+Main Reactor MODAF64
+[ENGINE] Background station monitor started.
+
+----------- MAIN MENU -----------
+1.  View All Modules
+2.  Add Module
+3.  Remove Module
+4.  Assign Crew
+5.  Remove Crew
+6.  Transfer Power
+7.  Repair Module
+8.  Run Diagnostics
+9.  Emergency Shutdown
+10. View Event Log History
+11. Save Logs to File
+0.  Exit
+Select an option: --- LIFE SUPPORT REPORT [MODAD61] ---
+Name:       Hab Life Support
+Status:     Online
+Integrity:  99%
+Power Draw: 10 kW
+Crew:       0 / 7 Astronauts
+Oxygen:     100.0%
+---------------------------------
+--- POWER GRID REPORT [MODAF64] ---
+Name:        Main Reactor
+Status:      Online
+Integrity:   99%
+Self Draw:   5 kW
+Generation:  35 kW
+Reserves:    218.8 / 245.0 kWh
+Grid Status: STABLE
+---------------------------------
+
+----------- MAIN MENU -----------
+1.  View All Modules
+2.  Add Module
+3.  Remove Module
+4.  Assign Crew
+5.  Remove Crew
+6.  Transfer Power
+7.  Repair Module
+8.  Run Diagnostics
+9.  Emergency Shutdown
+10. View Event Log History
+11. Save Logs to File
+0.  Exit
+Select an option: [ENGINE] Background station monitor stopped.
+LOGGER! 2 entries written to station_log.txt
+Station system shutting down. Goodbye!

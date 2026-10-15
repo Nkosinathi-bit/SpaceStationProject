@@ -6,6 +6,14 @@
 
 A console simulation of a space station with life-support and power-grid modules. A background monitor updates telemetry and raises alerts while the user manages modules through a numbered menu.
 
+## Output preview
+
+The image below presents output recorded from a real automated application run. It is a console-output excerpt; the program uses a terminal interface.
+
+![Recorded application output](docs/screenshots/console-output.png)
+
+[Full unedited output](docs/screenshots/console-output.txt) · [Capture source and sample input](docs/screenshots/capture.json)
+
 ## What this demonstrates
 
 - An abstract module base class with specialised life-support and power-grid implementations.
@@ -64,3 +72,4 @@ The source namespace remains PRG_Project to preserve the original coursework imp
 ## Scope
 
 This is an educational simulation. Station state exists in memory; logs can be written to station_log.txt in the working directory. It does not connect to hardware or provide a graphical interface.
+
